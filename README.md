@@ -1,2 +1,2 @@
-# maiacashmaker
-Game for learning financial management
+# MaiaCashMaker
+Game for learning financial management.
